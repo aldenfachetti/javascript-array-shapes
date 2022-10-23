@@ -130,3 +130,9 @@ train.unshift("🚂");
 console.log(train);
 
 //==============================
+
+// Return the last element of an array
+let array = [1, 2, 3, 4, 5];
+let ultimo = array[array.length - 1];
+// document.write(ultimo);
+console.log(array);
